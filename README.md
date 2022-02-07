@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @moshoodha89
 - 👀 I’m interested in everything web and much more...
-- 🌱 I’m currently learning JavaScript...
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: mynameismoshood@gmail.com
 
