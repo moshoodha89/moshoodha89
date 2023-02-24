@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @moshoodha89
+- 👋 Hi, I’m Mo Moshood. 
+- A product manager developing his capacity in software engineering
 - 👀 I’m interested in everything web and much more...
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on software engineering and web development projects
 - 📫 How to reach me: mynameismoshood@gmail.com
 
 <!---
